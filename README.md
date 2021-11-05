@@ -1,4 +1,4 @@
 # test
 
 - [x] Do thing
-- [] Do another thing
+- [ ] Do another thing
